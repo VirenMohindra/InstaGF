@@ -1,6 +1,6 @@
 #!/bin/sh
 
-APPDIR=$HOME/src/git/
+APPDIR=$HOME/Desktop/Work/Github
 export PYTHONPATH=$APPDIR/InstaGF:$APPDIR
 
 cd $APPDIR/InstaGF
